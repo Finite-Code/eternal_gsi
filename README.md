@@ -1,8 +1,4 @@
-![alt text][logo]
-
-[logo]:https://crdroid.net/img/logo.png "crDroid Android"
-
-### To get started with building crDroid GSI,
+### To get started with building Eternal GSI,
 you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
 
 
@@ -12,8 +8,8 @@ As a first step, you'll have to create and enter a folder with the appropriate n
 To do that, run these commands:
 
 ```bash
-   mkdir crDroid
-   cd crDroid
+   mkdir Eternal
+   cd Eternal
 ```
 
 ### To initialize your local repository, run this command:
